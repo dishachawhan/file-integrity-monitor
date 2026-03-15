@@ -1,0 +1,17 @@
+File Integrity Scan Report
+=================================
+
+app.py : NEW FILE DETECTED
+gui.py : NEW FILE DETECTED
+model.py : NEW FILE DETECTED
+predictor.py : NEW FILE DETECTED
+traffic_data.csv : NEW FILE DETECTED
+static\style.css : NEW FILE DETECTED
+templates\index.html : NEW FILE DETECTED
+templates\predictor.html : NEW FILE DETECTED
+__pycache__\model.cpython-312.pyc : NEW FILE DETECTED
+__pycache__\predictor.cpython-312.pyc : NEW FILE DETECTED
+file1.txt : FILE DELETED
+file4.txt : FILE DELETED
+file5.txt : FILE DELETED
+folder\secret.txt : FILE DELETED

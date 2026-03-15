@@ -1,0 +1,8 @@
+File Integrity Scan Report
+=================================
+
+file1.txt : MODIFIED
+file4.txt : SAFE
+file5.txt : NEW FILE DETECTED
+folder\secret.txt : NEW FILE DETECTED
+file2.txt : FILE DELETED

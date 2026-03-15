@@ -1,0 +1,7 @@
+File Integrity Scan Report
+=================================
+
+file1.txt : SAFE
+file4.txt : SAFE
+file5.txt : SAFE
+folder\secret.txt : SAFE
