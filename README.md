@@ -65,3 +65,13 @@ The system is conceptually similar to professional tools like Tripwire and Wazuh
 
 ### Alert Detection
 ![Alerts](screenshots/alerts.png)
+
+## How to Run
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the dashboard:
+
+python monitor_gui.py
