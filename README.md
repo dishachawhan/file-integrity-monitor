@@ -57,3 +57,11 @@ The system is conceptually similar to professional tools like Tripwire and Wazuh
 ---
 
 ## Example Alerts
+
+## Dashboard Preview
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Alert Detection
+![Alerts](screenshots/alerts.png)
